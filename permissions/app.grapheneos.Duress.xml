@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="me.lucky.duress">
+        <permission name="android.permission.BIND_ACCESSIBILITY_SERVICE"/>
+    </privapp-permissions>
+</permissions>
